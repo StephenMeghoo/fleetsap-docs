@@ -1,0 +1,10 @@
+{
+    "title": "Fleetsap Docs",
+    "url": "https://stephenmeghoo.github.io/",
+    "logo": {
+      "light": "/logo-light.svg",
+      "dark": "/logo-dark.svg"
+    },
+    "github": "StephenMeghoo/stephenmeghoo.github.io",
+    "twitter": "@stephenmeghoo"
+  }
